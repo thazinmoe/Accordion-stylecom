@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Endeavor",
+        "img": "/assets/images/image-1.jpg",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took"
+     },
+     {
+        "id": 2,
+        "name": "Hawks",
+        "img": "/assets/images/image-2.jpg",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took"
+     },
+     {
+        "id": 3,
+        "name": "Best Jeanist",
+        "img": "/assets/images/image-3.jpg",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took"
+     },
+     {
+        "id": 4,
+        "name": "Edgeshot",
+        "img": "/assets/images/image-4.jpg",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took"
+     },
+     {
+        "id": 5,
+        "name": "Mirko",
+        "img": "/assets/images/image-5.jpg",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took"
+     }
+]
